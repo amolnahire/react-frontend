@@ -1,0 +1,18 @@
+{
+  "brandId": 0,
+  "brandName": "VTP11",
+  "brandLogoName": "testbrandlogo",
+  "comments": "ddca",
+  "status": 1,
+  "ipAddress": null,
+  "acceptHeader": null,
+  "userAgent": null,
+  "partnerId": null,
+  "companyFlag": null,
+  "modifiedTime": null,
+  "modifiedBy": null,
+  "segment":
+    { "id": 1, "name": "Language", "list": [{ "id": 2, "name": "English" }] },
+  "account": { "accountId": 17, "accountName": "Affiliate" },
+  "activeStep": 0,
+}
